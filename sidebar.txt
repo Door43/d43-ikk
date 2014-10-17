@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[ikk:home|Door43 (ikk)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-ikk|d43-ikk repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-ikk/archive/master.zip|d43-ikk.zip]]
+
+**Recent Changes**
+{{changes>ns = ikk}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/ikk|Ethnologue data]]
+
